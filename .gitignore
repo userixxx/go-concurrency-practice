@@ -1,0 +1,9 @@
+# Бинарники
+*.exe
+*.out
+go-concurrency-practice
+
+# Кэш и среда
+/vendor/
+.idea/
+.vscode/
